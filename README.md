@@ -9,8 +9,8 @@ Detects focused windows app
 Usage :
 focusLogger.exe --logfilePath %APPDATA%\focuslogger --logfileName focuslogger --rotateInterval 60
 
--p, --logfilePath : LogFile's path <br\>
--f, --logfileName : LogFile's name \n
+-p, --logfilePath : LogFile's path 
+-f, --logfileName : LogFile's name 
 -l, --rotateInterval : log rotation interval in minutes
 
 at least have to indicate -l, --rotateInterval option to launch the app correctly
