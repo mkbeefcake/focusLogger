@@ -18,4 +18,5 @@ like as
 focusLogger.exe --rotateInterval 1
 
 # Contact
+If you are getting trouble or need changes, please send me the email.
 mizevastudio@gmail.com or mkblockchaindev@outlook.com
