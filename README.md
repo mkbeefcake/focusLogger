@@ -17,4 +17,5 @@ at least have to indicate -l, --rotateInterval option to launch the app correctl
 like as
 focusLogger.exe --rotateInterval 1
 
-
+# Contact
+mizevastudio@gmail.com or mkblockchaindev@outlook.com
